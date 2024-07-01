@@ -51,7 +51,7 @@ function SecurityCheckPage() {
 
   return (
     <div className="container pt-[35px] flex flex-col items-center overflow-x-hidden">
-      <div className="w-[65%] lg:w-full">
+      <div className="w-[65%] pl-[250px] lg:w-full">
         <img src="/images/megapersonals.png" alt="megaeprsonals" priority />
       </div>
 
